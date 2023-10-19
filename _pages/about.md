@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-<h1>Hi there is Rabbits-sys</h1>
+## Hi there is Rabbits-sys
 
 MA.Eng 1st year Control Science and Engineering student. Passionate about Robotic Sensing, Computer Vision and Machine Learning. Also, have some experience in Micro-controller Development. Currently learning new technologies to implement on real world projects.
 
