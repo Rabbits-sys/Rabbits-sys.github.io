@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>COMSOL服务器连接指北</title>
+    <link href="/2024/06/13/COMSOL%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%8C%87%E5%8C%97/"/>
+    <url>/2024/06/13/COMSOL%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%8C%87%E5%8C%97/</url>
+    
+    <content type="html"><![CDATA[<h2 id="系统环境要求">系统环境要求</h2><p>COMSOL 版本要求：6.2.0.290</p><p>MATLAB 版本要求：&gt;= 2017Ra</p><h2 id="matlab-连接方法">MATLAB 连接方法</h2><ul><li>在 MATLAB 中选中 <code>设置路径</code></li></ul><figure><img src="path.png" alt="设置路径" /><figcaption aria-hidden="true">设置路径</figcaption></figure><ul><li>添加 COMSOL with MATLAB 路径<code>C:\Program FIle\COMSOL\COMSOL62\Multiphysics\mli\</code></li></ul><figure><img src="matlab.jpg" alt="添加Path" /><figcaption aria-hidden="true">添加Path</figcaption></figure><ul><li>在 MATLAB 命令行： <figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs Matlab">mphstart(<span class="hljs-string">&#x27;10.15.194.81&#x27;</span>, <span class="hljs-number">2036</span>, <span class="hljs-string">&#x27;Lab&#x27;</span>, <span class="hljs-string">&#x27;87952145&#x27;</span>)<br></code></pre></td></tr></table></figure></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>COMSOL</category>
+      
+      <category>Server</category>
+      
+      <category>Client Setting</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>COMSOL</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>欢迎</title>
+    <link href="/2024/06/12/%E6%AC%A2%E8%BF%8E/"/>
+    <url>/2024/06/12/%E6%AC%A2%E8%BF%8E/</url>
+    
+    <content type="html"><![CDATA[<h2 id="狐在说什么">狐在说什么</h2><p>狐说主要围绕两大主题：软件配置和科研记录。对于软件配置方面，我们会分享操作系统、仿真软件、开发工具等各种软件的安装、配置和使用技巧。无论是Windows 还是 Linux，无论是 Python、Matlab 还是 ROS等编程语言，我们都会尽量涵盖，并以通俗易懂的方式讲解。</p><p>在科研领域，我们主要关注、数据科学等热门方向。我会分享一些有趣的论文解读、最新研究进展、开源项目介绍等内容。同时,也会分享一些科研工作中的实践经验和技巧,比如文献查找、实验设计、数据处理等。</p><h2 id="狐的想法">狐的想法</h2><p>总的来说，狐说旨在为课题组内部对计算机技术感兴趣的人提供软件配置参考，为相关课题成员提供一个分享交流的平台。我们会尽量以浅显易懂的方式阐述，并保持内容的新颖性和实用性。欢迎大家关注狐说，也欢迎提出宝贵意见和建议。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>welcom</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
